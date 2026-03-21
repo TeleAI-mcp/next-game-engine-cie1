@@ -1,2 +1,3 @@
-# next-game-engine-cie1
+# Next Game Engine Cie1
+
 A game engine project for modern development workflows.
